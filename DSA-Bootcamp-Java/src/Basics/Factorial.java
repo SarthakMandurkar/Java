@@ -8,7 +8,7 @@ public class Factorial {
 
         int fact = 1;
 
-        System.out.println("Enter the number to calculate factorial : ");
+        System.out.println("Enter the number to calculate factorial of : ");
         int number = Integer.parseInt(scanner.nextLine());
 
         for (int i = 1; i <= number; i++){
