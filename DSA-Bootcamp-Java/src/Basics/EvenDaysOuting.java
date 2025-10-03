@@ -1,7 +1,5 @@
 package Basics;
 
-import java.util.Scanner;
-
 public class EvenDaysOuting {
     public static void main(String[] args) {
 
